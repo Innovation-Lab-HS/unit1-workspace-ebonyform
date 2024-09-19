@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TurtleFun",
+            "request": "launch",
+            "mainClass": "TurtleFun",
+            "projectName": "unit1-workspace-ebonyform_2241e987"
+        },
+        {
+            "type": "java",
             "name": "MyProgram",
             "request": "launch",
             "mainClass": "MyProgram",

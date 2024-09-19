@@ -1,0 +1,7 @@
+class Day2Fun {
+  public static void main(String[] args) {
+    // \t -> tab
+    // \n -> new line
+    // \b -> backspace
+  }
+}

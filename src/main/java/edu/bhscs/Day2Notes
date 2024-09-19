@@ -3,5 +3,6 @@ class Day2Fun {
     // \t -> tab
     // \n -> new line
     // \b -> backspace
+    // \ to remove things form quotes and prevent error
   }
 }

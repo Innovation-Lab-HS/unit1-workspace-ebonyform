@@ -1,7 +1,7 @@
 class MyProgram {
     public static void main(String[] args) {
         System.out.println("This is a test of the");
-        System.out.Println("emergency broadcast system.");
+        System.out.println("emergency broadcast system.");
     }
 }
 
